@@ -1,4 +1,6 @@
-# OWASP Web Application Security Requirements 2.0
+# Webシステム／Webアプリケーションセキュリティ要件書 2.0
+OWASP Web Application Security Requirements 2.0
+
 by [OWASP Japan セキュリティ要件定義書ワーキンググループ](https://www.owasp.org/index.php/Japan)
 
 ## 本ドキュメントについて
